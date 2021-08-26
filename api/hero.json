@@ -1,14 +1,21 @@
 
 [
   {
-    "person": {
-      "id": 0,
-      "title": "my title",
-      "text": "lorem ipsum",
-      "img": {
-        "url": "url.com",
-        "alt": "alt image"
-      }
+    "id": 0,
+    "title": "my title",
+    "text": "Lorem ipsum dolor sit amet consectetur",
+    "img": {
+      "url": "url.com",
+      "alt": "alt image"
+    }
+  },
+  {
+    "id": 1,
+    "title": "my title 2",
+    "text": "Arepellat, iste aliquid maiores ratione",
+    "img": {
+      "url": "url.com",
+      "alt": "alt image"
     }
   }
 ]
