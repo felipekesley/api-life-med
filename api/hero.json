@@ -4,9 +4,7 @@
     "id": 0,
     "title": "Aliquip officia nisi do dolor fugiat magna",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Penatibus est blandit id sem elementum nam cras.",
-    "img": {
-      "url": "hero.jpg",
-      "alt": "image hero"
-    }
+    "img_url": "hero.jpg",
+    "img_alt": "hero image"
   }
 ]
