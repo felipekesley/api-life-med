@@ -2,17 +2,8 @@
 [
   {
     "id": 0,
-    "title": "my title",
-    "text": "Lorem ipsum dolor sit amet consectetur",
-    "img": {
-      "url": "url.com",
-      "alt": "alt image"
-    }
-  },
-  {
-    "id": 1,
-    "title": "my title 2",
-    "text": "Arepellat, iste aliquid maiores ratione",
+    "title": "Aliquip officia nisi do dolor fugiat magna",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Penatibus est blandit id sem elementum nam cras.",
     "img": {
       "url": "url.com",
       "alt": "alt image"
