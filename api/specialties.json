@@ -1,0 +1,39 @@
+
+[
+  {
+    "id": 0,
+    "title": "Ortopedia",
+    "img_url": "body1.png",
+    "img_alt": "Ortopedia"
+  },
+  {
+    "id": 1,
+    "title": "Próteses",
+    "img_url": "body1.png",
+    "img_alt": "Próteses"
+  },
+  {
+    "id": 2,
+    "title": "Medicina Esportiva",
+    "img_url": "body1.png",
+    "img_alt": "Medicina Esportiva"
+  },
+  {
+    "id": 3,
+    "title": "Bucomaxilo Facial",
+    "img_url": "body1.png",
+    "img_alt": "Bucomaxilo Facial"
+  },
+  {
+    "id": 4,
+    "title": "Traumatologia",
+    "img_url": "body1.png",
+    "img_alt": "Traumatologia"
+  },
+  {
+    "id": 5,
+    "title": "Neurologia",
+    "img_url": "body1.png",
+    "img_alt": "Neurologia"
+  }
+]
